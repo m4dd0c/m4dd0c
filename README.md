@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4dd0c&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=5&theme=dracula&hide_border=true&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m4dd0c&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
