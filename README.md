@@ -1,16 +1,24 @@
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![PUPPET](https://img.shields.io/badge/Puppet-02303A.svg?style=for-the-badge&logo=Puppet&logoColor=white&color=%23FFAE1A) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=m4dd0c&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4dd0c&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<h1>Hi 👋, I'm m4dd0c</h1>
+<h3>I play chess, drink coffee, and code sometime.</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=5&theme=dracula&hide_border=true&combine_all_yearly_contributions=true)
+- 👨💻 All of my projects are available at [https://m4dd0c.netlify.app](https://m4dd0c.netlify.app)
+- ⚡ Fun fact **I still can't fix any printer.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m4dd0c&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<h3>Connect with me:</h3>
+
+<code><a href="https://linkedin.com/in/m4dd0c" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m4dd0c" height="20" /></a></code>&nbsp;
+<code><a href="https://instagram.com/m4dd0c_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m4dd0c_" height="20" /></a></code>
+<code><a href="https://reddit.com/m4dd0c_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="m4dd0c_" height="20" /></a></code>
+
+
+<h3>GitHub Stats:</h3>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=m4dd0c&show_icons=true&theme=github_dark&locale=en" alt="m4dd0c" />  | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m4dd0c&theme=github_dark" alt="m4dd0c" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4dd0c&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="m4dd0c" />  | <img align="center" src="https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="m4dd0c" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=m4dd0c&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![views](https://visitcount.itsvg.in/api?id=m4dd0c&icon=2&color=6)](https://visitcount.itsvg.in)
