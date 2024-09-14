@@ -2,7 +2,7 @@
 <h3>I play chess, drink coffee, and code sometime.</h3>
 
 - 👨💻 All of my projects are available at [https://m4dd0c.netlify.app](https://m4dd0c.netlify.app)
-- ⚡ Fun fact **I still can't fix any printer.**
+- ⚡ Fun fact **I still can't fix a printer.**
 
 <h3>Connect with me:</h3>
 
