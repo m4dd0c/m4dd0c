@@ -8,7 +8,6 @@
 
 <code><a href="https://linkedin.com/in/m4dd0c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m4dd0c" height="20" /></a></code>
 <code><a href="https://instagram.com/m4dd0c_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m4dd0c_" height="20" /></a></code>
-<code><a href="https://reddit.com/user/m4dd0c_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="m4dd0c_" height="20" /></a></code>
 
 
 <h3>GitHub Stats:</h3>
