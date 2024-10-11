@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm m4dd0c</h1>
 <h3>I do coffee and code sometimes.</h3>
 
-- I am currently working on [DevUnity](https://github.com/m4dd0c/DevUnity)
+- 👩‍💻 I am currently working on [DevUnity](https://github.com/m4dd0c/DevUnity)
 - 👨💻 All of my projects are available at [https://m4dd0c.netlify.app](https://m4dd0c.netlify.app)
 - ⚡ Fun fact **I still can't fix a printer.**
 
