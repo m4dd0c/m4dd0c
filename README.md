@@ -12,7 +12,7 @@
 
 <h3>GitHub Stats:</h3>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=m4dd0c&show_icons=true&theme=github_dark&locale=en" alt="m4dd0c" />  | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m4dd0c&theme=github_dark" alt="m4dd0c" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=m4dd0c&show_icons=true&theme=github_dark&locale=en" alt="m4dd0c" />  | <img align="center" src="https://nirzak-streak-stats.vercel.app?user=m4dd0c&theme=github-dark-blue&hide_border=true&card_width=480" alt="m4dd0c" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 
