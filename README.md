@@ -12,11 +12,11 @@
 
 <h3>GitHub Stats:</h3>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=m4dd0c&show_icons=true&theme=github_dark&locale=en&hide_border=true" alt="m4dd0c" />  | <img align="center" src="https://nirzak-streak-stats.vercel.app?user=m4dd0c&theme=github-dark-blue&hide_border=true&card_width=480" alt="m4dd0c" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=m4dd0c&show_icons=true&theme=github_dark&locale=en&hide_border=true&rank_icon=percentile" alt="m4dd0c" />  | <img align="center" src="https://nirzak-streak-stats.vercel.app?user=m4dd0c&theme=github-dark-blue&hide_border=true&card_width=480" alt="m4dd0c" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4dd0c&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="m4dd0c" />  | <img align="center" src="https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="m4dd0c" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4dd0c&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true&card_width=480" alt="m4dd0c" />  | <img align="center" src="https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true&card_width=480" alt="m4dd0c" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 ---
