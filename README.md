@@ -18,4 +18,4 @@
 | [![m4dd0c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=m4dd0c&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark&layout=compact&hide_border=true&card_width=480)](https://github.com/m4dd0c?tab=repositories)  | [![m4dd0c's Contribution Stats](https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true&card_width=480)](https://github.com/m4dd0c?tab=repositories) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
-[![](https://komarev.com/ghpvc/?username=m4dd0c&color=blue&style=flat-square)](https://github.com/m4dd0c?tab=repositories)
+[![](https://komarev.com/ghpvc/?username=m4dd0c&color=blue&style=flat-square&base=1000)](https://github.com/m4dd0c?tab=repositories)
