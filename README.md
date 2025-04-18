@@ -13,7 +13,7 @@
 
 <h3>GitHub Stats:</h3>
 
-| [![m4dd0c's Profile Stats]()](https://github.com/m4dd0c?tab=repositories) | [![m4dd0c's Streak Stats](https://nirzak-streak-stats.vercel.app?user=m4dd0c&theme=github-dark-blue&hide_border=true&card_width=480)](https://github.com/m4dd0c?tab=repositories) |
+| [![m4dd0c's Profile Stats](https://github-readme-stats.vercel.app/api?username=m4dd0c&show_icons=true&theme=github_dark&count_private=true&hide_border=true&rank_icon=percentile)](https://github.com/m4dd0c?tab=repositories) | [![m4dd0c's Streak Stats](https://nirzak-streak-stats.vercel.app?user=m4dd0c&theme=github-dark-blue&hide_border=true&card_width=480)](https://github.com/m4dd0c?tab=repositories) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 
