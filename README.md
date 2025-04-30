@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm m4dd0c</h1>
 <h3>I do coffee and code sometimes.</h3> 
 
-
 - 👨💻 All of my projects are available at [https://m4dd0c.netlify.app](https://m4dd0c.netlify.app)
 - ⚡ Fun fact **I still can't fix a printer.**
 
