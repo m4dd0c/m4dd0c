@@ -2,7 +2,7 @@
 <h3>I do coffee and code sometimes.</h3> 
 
 - 👨💻 All of my projects are available at [https://m4dd0c.netlify.app](https://m4dd0c.netlify.app)
-- ⚡ Fun fact **I still can't fix a printer.**
+- ⚡ Fun fact **My code runs better than my social life.**
 
 <h3>Connect with me:</h3>
 
