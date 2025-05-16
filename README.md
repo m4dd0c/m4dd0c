@@ -1,5 +1,8 @@
-<h1>Hi 👋, I'm m4dd0c</h1>
-<h3>I do coffee and code sometimes.</h3> 
+  <h2>
+    <span>Hi, I'm m4dd0c</span>
+    <span><img src="https://media4.giphy.com/media/8N2wP9LffgeLz3vwcc/giphy.gif?cid=790b7611a9b35b2f6245c30cf9fbb74eaf27d1142bddaa45&rid=giphy.gif&ct=s" width="32" /></span>
+  </h2>
+    <p style="font-size:12px">As I sip coffee, the keyboard starts smoking and the monitor starts flickering - I think I fried my code <i>and</i> my career.</p>
 
 - 👨💻 All of my projects are available at [https://m4dd0c.netlify.app](https://m4dd0c.netlify.app)
 - ⚡ Fun fact **My code runs better than my social life.**
