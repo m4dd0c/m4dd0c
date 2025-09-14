@@ -4,7 +4,7 @@
   </h2>
     <p style="font-size:12px">As I sip coffee, the keyboard starts smoking and the monitor starts flickering - I think I fried my code <i>and</i> my career.</p>
 
-- 👨💻 All of my projects are available at [https://m4dd0c.netlify.app](https://m4dd0c.netlify.app)
+- 👨💻 All of my projects are available at [https://m4dd0c.netlify.app](https://m4dd0c.me)
 - ⚡ Fun fact **My code runs better than my social life.**
 
 ---
