@@ -11,11 +11,11 @@
 
 <h3>GitHub Stats:</h3>
 
-| [![m4dd0c's Profile Stats](https://github-readme-stats.vercel.app/api?username=m4dd0c&show_icons=true&theme=github_dark&count_private=true&hide_border=true&rank_icon=percentile)](https://github.com/m4dd0c?tab=repositories) | [![m4dd0c's Streak Stats](https://nirzak-streak-stats.vercel.app?user=m4dd0c&theme=github-dark-blue&hide_border=true&card_width=480)](https://github.com/m4dd0c?tab=repositories) |
+| <img src="profile/stats.svg" alt="m4dd0c's Profile Stats"> | [![m4dd0c's Streak Stats](https://nirzak-streak-stats.vercel.app?user=m4dd0c&theme=github-dark-blue&hide_border=true&card_width=480)](https://github.com/m4dd0c?tab=repositories) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 
-| [![m4dd0c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=m4dd0c&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark&layout=compact&hide_border=true&card_width=480)](https://github.com/m4dd0c?tab=repositories)  | [![m4dd0c's Contribution Stats](https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true&card_width=480)](https://github.com/m4dd0c?tab=repositories) |
+| <img src="profile/top-langs.svg" alt="m4dd0c's Top Languages"> | [![m4dd0c's Contribution Stats](https://github-contributor-stats.vercel.app/api?username=m4dd0c&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true&card_width=480)](https://github.com/m4dd0c?tab=repositories) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 [![](https://komarev.com/ghpvc/?username=m4dd0c&color=blue&style=flat-square&base=600&abbreviated=true)](https://github.com/m4dd0c?tab=repositories)
