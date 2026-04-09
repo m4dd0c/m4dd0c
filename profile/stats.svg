@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Manish Kumar's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 165, Total Commits  (last year) : 1122, Total PRs: 18, Total Issues: 22, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 165, Total Commits  (last year) : 1123, Total PRs: 18, Total Issues: 22, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.00719954663961;
+        stroke-dashoffset: 101.86070901851527;
       }
     }
   
