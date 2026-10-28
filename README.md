@@ -4,7 +4,7 @@
   </h2>
     <p style="font-size:12px">As I sip coffee, the keyboard starts smoking and the monitor starts flickering - I think I fried my code <i>and</i> my career.</p>
 
-- 👨💻 All of my projects are available at [https://m4dd0c.me](https://m4dd0c.me)
+- 👨💻 All of my projects are available at [https://m4dd0c.vercel.app](https://m4dd0c.vercel.app)
 - ⚡ Fun fact **My code runs better than my social life.**
 
 [![](https://komarev.com/ghpvc/?username=m4dd0c&color=blue&style=flat-square&base=600&abbreviated=true)](https://github.com/m4dd0c?tab=repositories)
